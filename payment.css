@@ -1,0 +1,37 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+header,footer{
+    background-color:  rosybrown;
+    position: relative;
+    width: 100%;
+}
+header{
+    height: 150px;
+    top: 0;
+}
+footer{
+    height: 100px;
+    bottom: 0;}
+
+    .login{
+        position: relative;
+        left: 95%;
+        bottom: 70%;
+        box-sizing: border-box;
+        font-size: 25px;
+        font-style: oblique;
+        
+    }
+    

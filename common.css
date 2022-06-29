@@ -1,0 +1,13 @@
+header,footer{
+    background-color:  rosybrown;
+    position: relative;
+    width: 100%;
+}
+header{
+    height: 150px;
+    top: 0;
+}
+footer{
+    height: 100px;
+    bottom: 0;}
+    
